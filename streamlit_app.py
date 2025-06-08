@@ -33,7 +33,7 @@ check_password()
 
 # --- Game Initialization ---
 st.title("💡 Financial Education & Fininfluencer Game")
-st.markdown("Welcome to the Fininfluencer Challenge based on the 2025 IOSCO report !")
+st.markdown("Welcome to the AML Awareness Challenge!")
 
 if "step" not in st.session_state:
     st.session_state.step = "start"
@@ -68,21 +68,27 @@ elif st.session_state.step == "count":
 # --- Step 3: Game Loop ---
 elif st.session_state.step == "question":
     q = st.session_state.questions[st.session_state.index]
-    st.markdown(f"**Question {st.session_state.index + 1}/{st.session_state.total_questions}**")
+    index = st.session_state.index
+
+    st.markdown(f"**Question {index + 1}/{st.session_state.total_questions}**")
     st.markdown(f"### {q['question']}")
 
-    selected = st.radio("Choose your answer:", q["options"], key=f"q{st.session_state.index}")
-    if st.button("Submit Answer"):
-        st.session_state.answered = True
-        if selected == q["correct_answer"]:
-            st.success("Correct! ✅")
-            st.session_state.score += 1
-        else:
-            st.error(f"Wrong! ❌ The correct answer was: {q['correct_answer']}")
-        st.info(f"💬 Learn more: {q['advice']}  \n\n🔗 Source: {q['source']}")
-        if st.button("Next Question"):
+    if f"answered_{index}" not in st.session_state:
+        st.session_state[f"answered_{index}"] = False
+
+    if not st.session_state[f"answered_{index}"]:
+        selected = st.radio("Choose your answer:", q["options"], key=f"q{index}")
+        if st.button("Submit Answer", key=f"submit_{index}"):
+            st.session_state[f"answered_{index}"] = True
+            if selected == q["correct_answer"]:
+                st.success("Correct! ✅")
+                st.session_state.score += 1
+            else:
+                st.error(f"Wrong! ❌ The correct answer was: {q['correct_answer']}")
+            st.info(f"💬 Learn more: {q['advice']}  \n\n🔗 Source: {q['source']}")
+    else:
+        if st.button("Next Question", key=f"next_{index}"):
             st.session_state.index += 1
-            st.session_state.answered = False
             if st.session_state.index >= st.session_state.total_questions:
                 st.session_state.step = "result"
             st.rerun()
