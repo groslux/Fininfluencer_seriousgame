@@ -83,20 +83,20 @@ elif st.session_state.step == "question":
 
     selected = st.radio("Choose your answer:", q["options"], key=f"q{st.session_state.index}")
     if st.button("Submit Answer"):
-        st.session_state.answered = True
+              st.session_state.answered = True
         if selected == q["correct_answer"]:
             st.success("Correct! ✅")
             st.session_state.score += 1
         else:
             st.error(f"Wrong! ❌ The correct answer was: {q['correct_answer']}")
-      st.info(f"💬 Learn more: {q['advice']}  \n\n🔗 Source: {q['source']}")
-🔗 Source: {q['source']}")
+        st.info(f"💬 Learn more: {q['advice']}  \n\n🔗 Source: {q['source']}")
         if st.button("Next Question"):
             st.session_state.index += 1
             st.session_state.answered = False
             if st.session_state.index >= st.session_state.total_questions:
                 st.session_state.step = "result"
             st.rerun()
+
 
 # --- Step 4: Result ---
 elif st.session_state.step == "result":
