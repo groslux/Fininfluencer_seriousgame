@@ -33,7 +33,7 @@ check_password()
 
 # --- Game Initialization ---
 st.title("💡 Financial Education & Fininfluencer Game")
-st.markdown("Welcome to the Fininfluencer Awareness Challenge based on the 2025 IOSCO report on Fininfluencers!")
+st.markdown("Welcome to the AML Awareness Challenge!")
 
 if "step" not in st.session_state:
     st.session_state.step = "start"
@@ -73,13 +73,16 @@ elif st.session_state.step == "question":
     st.markdown(f"**Question {index + 1}/{st.session_state.total_questions}**")
     st.markdown(f"### {q['question']}")
 
-    if f"answered_{index}" not in st.session_state:
-        st.session_state[f"answered_{index}"] = False
+    answered_key = f"answered_{index}"
+    answer_selected_key = f"selected_{index}"
 
-    if not st.session_state[f"answered_{index}"]:
-        selected = st.radio("Choose your answer:", q["options"], key=f"q{index}")
-        if st.button("Submit Answer", key=f"submit_{index}"):
-            st.session_state[f"answered_{index}"] = True
+    if answered_key not in st.session_state:
+        st.session_state[answered_key] = False
+
+    if not st.session_state[answered_key]:
+        selected = st.radio("Choose your answer:", q["options"], key=answer_selected_key)
+        if st.button("Submit Answer"):
+            st.session_state[answered_key] = True
             if selected == q["correct_answer"]:
                 st.success("Correct! ✅")
                 st.session_state.score += 1
@@ -87,7 +90,9 @@ elif st.session_state.step == "question":
                 st.error(f"Wrong! ❌ The correct answer was: {q['correct_answer']}")
             st.info(f"💬 Learn more: {q['advice']}  \n\n🔗 Source: {q['source']}")
     else:
-        if st.button("Next Question", key=f"next_{index}"):
+        st.success("Answer submitted.")
+        st.info(f"💬 Learn more: {q['advice']}  \n\n🔗 Source: {q['source']}")
+        if st.button("Next Question"):
             st.session_state.index += 1
             if st.session_state.index >= st.session_state.total_questions:
                 st.session_state.step = "result"
