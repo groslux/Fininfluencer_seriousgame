@@ -33,7 +33,7 @@ check_password()
 
 # --- Game Initialization ---
 st.title("💡 Financial Education & Fininfluencer Game")
-st.markdown("Welcome to the AML Awareness Challenge!")
+st.markdown("Welcome to the Fininfluencer Awareness Challenge based on the 2025 IOSCO report on Fininfluencers!")
 
 if "step" not in st.session_state:
     st.session_state.step = "start"
