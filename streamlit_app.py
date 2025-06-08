@@ -89,7 +89,7 @@ elif st.session_state.step == "question":
             st.session_state.score += 1
         else:
             st.error(f"Wrong! ❌ The correct answer was: {q['correct_answer']}")
-        st.info(f"💬 Learn more: {q['advice']}  
+        st.info(f"💬 Learn more: {q['advice']}  )
 🔗 Source: {q['source']}")
         if st.button("Next Question"):
             st.session_state.index += 1
