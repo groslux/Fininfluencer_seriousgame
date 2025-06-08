@@ -1,4 +1,3 @@
-
 import streamlit as st
 import json
 import random
@@ -82,8 +81,8 @@ elif st.session_state.step == "question":
     timer_placeholder.empty()
 
     selected = st.radio("Choose your answer:", q["options"], key=f"q{st.session_state.index}")
-     if st.button("Submit Answer")
-st.session_state.answered = True
+    if st.button("Submit Answer"):
+        st.session_state.answered = True
         if selected == q["correct_answer"]:
             st.success("Correct! ✅")
             st.session_state.score += 1
@@ -125,5 +124,6 @@ elif st.session_state.step == "result":
 st.markdown(
     "<hr style='margin-top: 50px;'><div style='text-align:center; font-size: 12px; color: grey;'>"
     "This is not an official IOSCO sponsored game - use for information purposes only - Copyright Guilhem ROS - 2025"
-    "</div>", unsafe_allow_html=True
+    "</div>",
+    unsafe_allow_html=True
 )
