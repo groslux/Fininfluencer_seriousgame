@@ -33,7 +33,7 @@ check_password()
 
 # --- Game Initialization ---
 st.title("💡 Financial Education & Fininfluencer Game")
-st.markdown("Welcome to the AML Awareness Challenge!")
+st.markdown("Welcome to the Fininfluencer Challenge based on the 2025 IOSCO report !")
 
 if "step" not in st.session_state:
     st.session_state.step = "start"
@@ -58,7 +58,7 @@ elif st.session_state.step == "count":
     st.session_state.total_questions = st.radio("How many questions do you want?", [10, 20])
     if st.button("Start Game"):
         pool = investor_questions if st.session_state.role == "Investor" else fininfluencer_questions
-        st.session_state.questions = random.sample(pool, st.session_state.total_questions)
+        st.session_state.questions = random.sample(pool, min(st.session_state.total_questions, len(pool)))
         st.session_state.score = 0
         st.session_state.index = 0
         st.session_state.start_time = time.time()
@@ -70,15 +70,6 @@ elif st.session_state.step == "question":
     q = st.session_state.questions[st.session_state.index]
     st.markdown(f"**Question {st.session_state.index + 1}/{st.session_state.total_questions}**")
     st.markdown(f"### {q['question']}")
-    timer_placeholder = st.empty()
-
-    for seconds in range(20, 0, -1):
-        timer_placeholder.markdown(f"⏳ Time left: **{seconds}** seconds")
-        time.sleep(1)
-        if "answered" in st.session_state:
-            break
-
-    timer_placeholder.empty()
 
     selected = st.radio("Choose your answer:", q["options"], key=f"q{st.session_state.index}")
     if st.button("Submit Answer"):
