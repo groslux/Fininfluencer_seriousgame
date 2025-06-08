@@ -82,8 +82,8 @@ elif st.session_state.step == "question":
     timer_placeholder.empty()
 
     selected = st.radio("Choose your answer:", q["options"], key=f"q{st.session_state.index}")
-     if st.button("Submit Answer"):
-        st.session_state.answered = True
+     if st.button("Submit Answer")
+st.session_state.answered = True
         if selected == q["correct_answer"]:
             st.success("Correct! ✅")
             st.session_state.score += 1
