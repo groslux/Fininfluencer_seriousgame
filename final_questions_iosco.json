@@ -1,940 +1,392 @@
 [
   {
-    "id": "edu_4",
     "category": "Financial Education",
-    "question": "What is a key legal obligation when a finfluencer is paid to promote a financial product?",
+    "question": "What is the most effective strategy to reduce the overall risk of an investment portfolio?",
     "options": [
-      "Use humor to appeal to followers",
-      "Avoid disclosing payment details",
-      "Clearly disclose the sponsorship",
-      "Mention a disclaimer in small print"
+      "Investing heavily in a single high-performing stock.",
+      "Diversification by spreading investments across different asset classes and sectors.",
+      "Timing the market to buy only when prices are at their absolute lowest.",
+      "Checking your portfolio hourly and trading constantly."
     ],
-    "correct_answer": "Clearly disclose the sponsorship",
-    "advice": "Transparency is critical. Failing to disclose compensation may mislead consumers and breach financial promotion laws.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Diversification by spreading investments across different asset classes and sectors.",
+    "advice": "Diversification is a core IOSCO investor protection principle. By spreading investments across different assets (equities, bonds, real estate), a loss in one area can be offset by gains in another, reducing systemic portfolio risk.",
+    "source": "IOSCO Retail Investor Education Framework"
   },
   {
-    "id": "edu_5",
     "category": "Financial Education",
-    "question": "Which of the following is a red flag in finfluencer content?",
+    "question": "Which of the following is a classic warning sign of an investment scam?",
     "options": [
-      "Mentioning risks and returns",
-      "Promising guaranteed profits",
-      "Linking to financial regulator websites",
-      "Using disclaimers like 'this is not advice'"
+      "The investment requires a 5-year lock-up period.",
+      "The broker provides a detailed, complex prospectus.",
+      "The promoter promises high returns with zero or 'guaranteed' risk.",
+      "The platform charges a 1% annual management fee."
     ],
-    "correct_answer": "Promising guaranteed profits",
-    "advice": "Guaranteeing profits is misleading and can signal fraud or high-risk schemes. Real investing always involves risk.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "The promoter promises high returns with zero or 'guaranteed' risk.",
+    "advice": "The risk-return tradeoff is fundamental to finance: high returns always involve high risk. Guarantees of high returns with no risk are a primary red flag for fraud.",
+    "source": "IOSCO - Report on Retail Investor Trends and Emerging Risks"
   },
   {
-    "id": "edu_6",
     "category": "Financial Education",
-    "question": "What should a responsible finfluencer do when recommending a financial product?",
+    "question": "What is 'compound interest' in the context of long-term investing?",
     "options": [
-      "Conduct proper research first",
-      "Copy content from other influencers",
-      "Highlight only the benefits",
-      "Post quickly before the market changes"
+      "A fixed penalty fee charged by brokers for early withdrawal.",
+      "Interest calculated solely on the initial principal amount invested.",
+      "Earning interest on both the initial principal and the accumulated interest from previous periods.",
+      "A tax applied to capital gains upon selling an asset."
     ],
-    "correct_answer": "Conduct proper research first",
-    "advice": "Due diligence is essential. Influencers should understand what they’re promoting to avoid misleading their audience.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Earning interest on both the initial principal and the accumulated interest from previous periods.",
+    "advice": "Compound interest allows wealth to grow exponentially over time, as you earn returns on past returns. Starting early is the most effective way to leverage this mathematical advantage.",
+    "source": "OECD/INFE Core Competencies Framework on Financial Literacy"
   },
   {
-    "id": "edu_7",
     "category": "Financial Education",
-    "question": "Why is it important for finfluencers to use clear and simple language?",
+    "question": "You lose money to a fraudulent crypto broker. Someone contacts you claiming they are from a 'fund recovery agency' and can get your money back for an upfront fee. What is this called?",
     "options": [
-      "To avoid legal scrutiny",
-      "To sound professional",
-      "To ensure followers understand risks",
-      "To promote high-end products"
+      "A legitimate regulatory intervention.",
+      "A Recovery Room scam.",
+      "A Chargeback dispute.",
+      "A Boiler Room operation."
     ],
-    "correct_answer": "To ensure followers understand risks",
-    "advice": "Using plain language helps consumers make informed decisions and reduces the risk of misinterpretation.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "A Recovery Room scam.",
+    "advice": "Fraudsters often target victims a second time through 'recovery rooms,' posing as lawyers or regulators who can retrieve stolen funds for an advance fee. Legitimate agencies never ask for upfront fees to recover money.",
+    "source": "IOSCO Investor Alerts Portal"
   },
   {
-    "id": "edu_8",
     "category": "Financial Education",
-    "question": "What is the risk of using emojis or slang to describe investment risks?",
+    "question": "Why is 'FOMO' (Fear Of Missing Out) dangerous for retail investors?",
     "options": [
-      "It makes content more relatable",
-      "It increases reach",
-      "It can obscure critical warnings",
-      "It is legally required"
+      "It leads investors to buy assets at peak prices based on hype rather than fundamental analysis.",
+      "It causes investors to excessively diversify their portfolios.",
+      "It forces investors to read too many financial reports.",
+      "It triggers automatic regulatory freezes on trading accounts."
     ],
-    "correct_answer": "It can obscure critical warnings",
-    "advice": "Over-simplifying or disguising risk language with emojis may reduce clarity and mislead followers.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "It leads investors to buy assets at peak prices based on hype rather than fundamental analysis.",
+    "advice": "FOMO drives emotional investing, often leading retail investors to enter a market right before a correction or crash, ignoring basic due diligence.",
+    "source": "IOSCO Retail Investor Education on Crypto-Assets"
   },
   {
-    "id": "edu_9",
     "category": "Financial Education",
-    "question": "When is it acceptable for a finfluencer to share personal investment results?",
+    "question": "What is a 'Boiler Room' scam?",
     "options": [
-      "If they hide losses",
-      "Only when showing profit",
-      "If they include balanced context and risks",
-      "Never under any condition"
+      "A fraud involving the sale of defective heating equipment.",
+      "High-pressure sales tactics used by fraudsters to sell worthless or non-existent shares.",
+      "A legitimate high-frequency trading strategy.",
+      "A tax evasion scheme using offshore shell companies."
     ],
-    "correct_answer": "If they include balanced context and risks",
-    "advice": "Sharing personal results without discussing risks may create unrealistic expectations and is ethically problematic.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "High-pressure sales tactics used by fraudsters to sell worthless or non-existent shares.",
+    "advice": "Boiler rooms use high-pressure, manipulative cold-calling or messaging tactics to convince investors to buy highly speculative or entirely fake investments.",
+    "source": "FATF Fraud Typologies"
   },
   {
-    "id": "edu_10",
     "category": "Financial Education",
-    "question": "What is one common psychological tactic used by finfluencers?",
+    "question": "Before investing in a financial product, what is the most important document you should read?",
     "options": [
-      "Providing academic citations",
-      "Creating FOMO (fear of missing out)",
-      "Explaining long-term risk profiles",
-      "Encouraging professional advice"
+      "The CEO's Twitter feed.",
+      "The product's Prospectus or Key Information Document (KID).",
+      "The company's marketing brochure.",
+      "An anonymous Reddit post."
     ],
-    "correct_answer": "Creating FOMO (fear of missing out)",
-    "advice": "FOMO pressures followers to act emotionally rather than rationally. Always pause and research before investing.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "The product's Prospectus or Key Information Document (KID).",
+    "advice": "The Prospectus or KID is a legally required document that outlines the investment's objectives, risks, costs, and historical performance in a standardized format.",
+    "source": "EU PRIIPs Regulation / IOSCO"
   },
   {
-    "id": "edu_11",
     "category": "Financial Education",
-    "question": "Which of these is considered misleading advertising by a finfluencer?",
+    "question": "If you invest in an unregulated financial asset, what is the primary consequence?",
     "options": [
-      "Disclosing risks in the caption",
-      "Highlighting both pros and cons",
-      "Using the phrase 'guaranteed income'",
-      "Linking to regulator sites"
+      "You do not have to pay capital gains tax.",
+      "You lose access to national investor compensation schemes and ombudsman services if things go wrong.",
+      "Your returns are guaranteed to be higher.",
+      "The asset cannot be sold for at least one year."
     ],
-    "correct_answer": "Using the phrase 'guaranteed income'",
-    "advice": "Terms like 'guaranteed income' are misleading in financial promotion unless tied to regulated, guaranteed products.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "You lose access to national investor compensation schemes and ombudsman services if things go wrong.",
+    "advice": "Regulated markets offer safety nets, such as investor compensation funds and strict disclosure rules. Unregulated markets offer zero protection against insolvency or fraud.",
+    "source": "IOSCO Investor Protection Principles"
   },
   {
-    "id": "edu_12",
     "category": "Financial Education",
-    "question": "How should a finfluencer present affiliate links for financial services?",
+    "question": "What is the impact of high management fees on long-term investments?",
     "options": [
-      "Only in the bio",
-      "Hidden under short links",
-      "Clearly marked and disclosed",
-      "No need to mention them"
+      "They guarantee a better performance from the fund manager.",
+      "They compound over time, significantly reducing the final value of your investment.",
+      "They are entirely tax-deductible, neutralizing their impact.",
+      "They only affect short-term day traders."
     ],
-    "correct_answer": "Clearly marked and disclosed",
-    "advice": "Affiliate marketing links must be disclosed clearly to avoid misleading consumers and breaching ad laws.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "They compound over time, significantly reducing the final value of your investment.",
+    "advice": "Even a 1% or 2% annual fee can eat away thousands of dollars over a 20-year investment horizon due to the loss of compound interest on those fees.",
+    "source": "SEC / IOSCO Investor Education"
   },
   {
-    "id": "edu_13",
     "category": "Financial Education",
-    "question": "Why is it dangerous to follow financial advice from unverified influencers?",
+    "question": "What does liquidity mean in the context of investing?",
     "options": [
-      "They might delete their posts later",
-      "They rarely post on weekends",
-      "They may lack qualifications and oversight",
-      "They promote only crypto products"
+      "The ability of a company to pay dividends.",
+      "The ease with which an investment can be bought or sold for cash without affecting its price.",
+      "The process of a company going bankrupt.",
+      "The level of debt a company holds."
     ],
-    "correct_answer": "They may lack qualifications and oversight",
-    "advice": "Unverified influencers may offer advice that’s biased, incorrect, or even illegal. Always cross-check their credentials.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "The ease with which an investment can be bought or sold for cash without affecting its price.",
+    "advice": "Highly liquid assets like large-cap stocks can be sold instantly. Illiquid assets like real estate or private equity may trap your funds when you need them most.",
+    "source": "OECD Financial Literacy Guidelines"
   },
   {
-    "id": "edu_1",
-    "category": "Financial Education",
-    "question": "Which of the following is a common tactic used by financial influencers to gain trust?",
-    "options": [
-      "Quoting legal disclaimers",
-      "Using complex charts only professionals understand",
-      "Showing personal success stories and lifestyle",
-      "Offering free access to financial regulators"
-    ],
-    "correct_answer": "Showing personal success stories and lifestyle",
-    "advice": "Be cautious when influencers flaunt their lifestyle as proof of financial success. Verify their claims through regulated sources.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_2",
-    "category": "Financial Education",
-    "question": "Why should you be skeptical of financial influencers who guarantee returns?",
-    "options": [
-      "Because guarantees are always approved by banks",
-      "Because returns in investing are never guaranteed",
-      "Because they are usually licensed professionals",
-      "Because they rarely advertise their platforms"
-    ],
-    "correct_answer": "Because returns in investing are never guaranteed",
-    "advice": "No investment can promise profits. Influencers making such claims are misleading or possibly fraudulent.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_3",
-    "category": "Financial Education",
-    "question": "What is a red flag when evaluating financial advice on social media?",
-    "options": [
-      "Advice given by a licensed financial advisor",
-      "Frequent use of risk warnings",
-      "Mentions of regulated institutions",
-      "Pressure to act quickly or miss out"
-    ],
-    "correct_answer": "Pressure to act quickly or miss out",
-    "advice": "Urgency tactics are often used in scams. Always take time to research before investing.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_4",
-    "category": "Financial Education",
-    "question": "What should you check before following a financial influencer’s advice?",
-    "options": [
-      "Their number of followers",
-      "Their sponsorships and advertising disclosures",
-      "Their favorite cryptocurrency",
-      "The platform they use for investing"
-    ],
-    "correct_answer": "Their sponsorships and advertising disclosures",
-    "advice": "Transparency about paid promotions helps you judge whether their advice is biased or not.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_5",
-    "category": "Financial Education",
-    "question": "Why is it risky to follow investment advice based solely on an influencer's personal story?",
-    "options": [
-      "Because they are often too humble",
-      "Because personal stories are protected by copyright",
-      "Because personal results do not apply to everyone",
-      "Because all influencers invest the same way"
-    ],
-    "correct_answer": "Because personal results do not apply to everyone",
-    "advice": "What worked for one person may not work for you. Your financial goals and risks are unique.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_6",
-    "category": "Financial Education",
-    "question": "Which group is particularly vulnerable to misleading financial content online?",
-    "options": [
-      "Certifiedfinancial advisors",
-      "High-frequency traders",
-      "Young and inexperienced investors",
-      "Central bank employees"
-    ],
-    "correct_answer": "Young and inexperienced investors",
-    "advice": "Beginner investors are more likely to trust popular content without verifying sources. Always double-check.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_7",
-    "category": "Financial Education",
-    "question": "What does it mean if an influencer is not registered with a financial authority?",
-    "options": [
-      "They may still provide regulated financial advice",
-      "They are likely working at a bank",
-      "They cannot legally give investment advice in most jurisdictions",
-      "They are automatically trustworthy"
-    ],
-    "correct_answer": "They cannot legally give investment advice in most jurisdictions",
-    "advice": "Check registration status before taking advice. Licensing is there to protect you.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_8",
-    "category": "Financial Education",
-    "question": "What is a good first step before acting on investment advice found online?",
-    "options": [
-      "Download the influencer’s free PDF",
-      "Buy the product quickly",
-      "Speak to a licensed advisor or do independent research",
-      "Subscribe to their channel"
-    ],
-    "correct_answer": "Speak to a licensed advisor or do independent research",
-    "advice": "Taking time to research or consult a professional can help you avoid poor or risky decisions.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_9",
-    "category": "Financial Education",
-    "question": "Which of these is a likely sign of a pump-and-dump scheme promoted by influencers?",
-    "options": [
-      "The influencer posts every day",
-      "Sudden promotion of an unknown asset",
-      "They have a LinkedIn profile",
-      "They mention Warren Buffet"
-    ],
-    "correct_answer": "Sudden promotion of an unknown asset",
-    "advice": "Beware of hype around little-known assets. The price may be manipulated and crash quickly.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_10",
-    "category": "Financial Education",
-    "question": "Why do some influencers use complicated financial jargon?",
-    "options": [
-      "To educate theirfollowers",
-      "To impress regulators",
-      "To hide the risks and confuse audiences",
-      "To comply with the law"
-    ],
-    "correct_answer": "To hide the risks and confuse audiences",
-    "advice": "If you don’t understand the advice, don’t follow it. Confusing language is a red flag.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_11",
-    "category": "Financial Education",
-    "question": "What is a typical sign that afinancial influencer might be promoting a scam?",
-    "options": [
-      "They talk about inflation",
-      "They display regulatory approvals",
-      "They promise risk-free profits",
-      "They link to central bank websites"
-    ],
-    "correct_answer": "They promise risk-free profits",
-    "advice": "Any investment with zero risk and high return should raise alarm bells. No legitimate offer guarantees profit.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_12",
-    "category": "Financial Education",
-    "question": "Why is it important to verify the credentials of a financial influencer?",
-    "options": [
-      "To follow them on multiple platforms",
-      "To access premiumcontent",
-      "To ensure they are qualified to provide advice",
-      "To help them grow their audience"
-    ],
-    "correct_answer": "To ensure they are qualified to provide advice",
-    "advice": "Check for official licenses or regulatory registration. Many influencers operate without proper qualifications.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_13",
-    "category": "Financial Education",
-    "question": "How can social media algorithms increase financial risk for users?",
-    "options": [
-      "They hide regulator warnings",
-      "They favor highly engaging, not accurate, content",
-      "They block verified advisors",
-      "They only show licensed influencers"
-    ],
-    "correct_answer": "They favor highly engaging, not accurate, content",
-    "advice": "Viral doesn’t mean valid. Always double-check advice with reputable sources.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_14",
-    "category": "Financial Education",
-    "question": "What should you do if a financial influencer pressures you to invest immediately?",
-    "options": [
-      "Follow their lead to avoid missing out",
-      "Share theopportunity with friends",
-      "Take your time and investigate the offer",
-      "Ask them for faster payment methods"
-    ],
-    "correct_answer": "Take your time and investigate the offer",
-    "advice": "Urgency is a manipulation tactic. Quality investments don’t expire overnight.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_15",
-    "category": "Financial Education",
-    "question": "What kind of products are often pushed by misleading financial influencers?",
-    "options": [
-      "Highly liquid ETFs",
-      "State-sponsored bonds",
-      "Unregulated crypto-assets or forex schemes",
-      "Blue chip stocks"
-    ],
-    "correct_answer": "Unregulated crypto-assets or forex schemes",
-    "advice": "Always check if a product is regulated. Unlicensed products may expose you to major losses.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_16",
-    "category": "Financial Education",
-    "question": "Why should you be wary of influencers offering 'exclusive' investment communities?",
-    "options": [
-      "They have too many followers",
-      "They may limit your access to banks",
-      "They are often regulated by law",
-      "They may be used to create false consensus and manipulate behavior"
-    ],
-    "correct_answer": "They may be used to create false consensus and manipulate behavior",
-    "advice": "Groups that discourage questions or promote secrecy often conceal fraud.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_17",
-    "category": "Financial Education",
-    "question": "How can financial influencers exploit affiliate links?",
-    "options": [
-      "They use them to improve government regulation",
-      "They promote services regardless of user benefit",
-      "They donate profits to education",
-      "They help users find licensed products"
-    ],
-    "correct_answer": "They promoteservices regardless of user benefit",
-    "advice": "Affiliate links can create conflicts of interest. Ask whether the product is truly in your interest.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_18",
-    "category": "Financial Education",
-    "question": "What makes it hard to hold financial influencers accountable?",
-    "options": [
-      "They are always offline",
-      "They operate anonymously or from different jurisdictions",
-      "They are employed by regulators",
-      "They only talk about savings"
-    ],
-    "correct_answer": "They operate anonymously or from different jurisdictions",
-    "advice": "Accountability is key. Avoid influencers who cannot be clearlyidentified or traced.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_19",
-    "category": "Financial Education",
-    "question": "What is a safe rule to follow when watching financial content online?",
-    "options": [
-      "Follow only the most entertaining channels",
-      "Invest before the opportunity disappears",
-      "Never invest based on a single source of information",
-      "Only trust ads with celebrity endorsements"
-    ],
-    "correct_answer": "Never invest based on a single source of information",
-    "advice": "Diversify your sources and verify before acting. Reliable decisions require more than one opinion.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_20",
-    "category": "Financial Education",
-    "question": "Why is it dangerous to assume influencer popularity equals credibility?",
-    "options": [
-      "Because they may not know how to code",
-      "Because algorithms reward engagement, not truth",
-      "Because they avoid politics",
-      "Because regulators remove their content"
-    ],
-    "correct_answer": "Because algorithms reward engagement, not truth",
-    "advice": "High follower counts don’tmean good advice. Many scams go viral. Trust facts, not fame.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_21",
-    "category": "Financial Education",
-    "question": "Why should yoube cautious of 'limited time' investment offers promoted online?",
-    "options": [
-      "Because they are regulated by central banks",
-      "Because they are usually verified by financial authorities",
-      "Because they are often scams trying to create panic",
-      "Because influencers earn bonuses from banks"
-    ],
-    "correct_answer": "Because they are often scams trying to create panic",
-    "advice": "Legitimate investments do not rely on urgency. Always take time to evaluate the risks.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_22",
-    "category": "Financial Education",
-    "question": "What should you do if an influencer offers one-on-one coaching for investment success?",
-    "options": [
-      "Pay immediately to reserve your spot",
-      "Ask for their professional certification or license",
-      "Ignore the credentials",
-      "Follow them without paying"
-    ],
-    "correct_answer": "Ask for theirprofessional certification or license",
-    "advice": "Always verify that financial coaches are properly qualified. Anyone can call themselves a coach online.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_23",
-    "category": "Financial Education",
-    "question": "Why might 'copy trading' promoted by influencers be risky?",
-    "options": [
-      "Because it increases your credit score",
-      "Because it’s a regulated financial product",
-      "Because your money is guaranteed",
-      "Because you don’t understand the strategy or risks"
-    ],
-    "correct_answer": "Because you don’t understand the strategy or risks",
-    "advice": "Never follow a strategy you don’t fully understand. Copy trading doesn’t guarantee success.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_24",
-    "category": "Financial Education",
-    "question": "How can emotional appeal be used to manipulate online investors?",
-    "options": [
-      "By quoting financial laws",
-      "By showing official licenses",
-      "By exploiting fear of missing out or financial insecurity",
-      "By explaining central bank interest rates"
-    ],
-    "correct_answer": "By exploiting fear of missing out or financial insecurity",
-    "advice": "Emotions cloud judgment. Stick to facts and logic when making financial decisions.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_25",
-    "category": "Financial Education",
-    "question": "What is a common sign of a fake influencer profile?",
-    "options": [
-      "They mention inflation",
-      "They have no contact or legal details",
-      "They show screenshots of real bank accounts",
-      "They promote index funds"
-    ],
-    "correct_answer": "They have no contact or legal details",
-    "advice": "Always check if an influencer provides legal and verifiable contact info.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_26",
-    "category": "Financial Education",
-    "question": "Which of the following is NOT a reliable source for investment decisions?",
-    "options": [
-      "Official financial regulators",
-      "Licensed financial advisors",
-      "Academic finance research",
-      "Social media comments"
-    ],
-    "correct_answer": "Social media comments",
-    "advice": "Comments may be manipulated or fake. Always go toofficial or expert sources.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_27",
-    "category": "Financial Education",
-    "question": "Why should you beware of 'success testimonials' in financial content?",
-    "options": [
-      "They are verified by auditors",
-      "They often include full risk warnings",
-      "They are usually from real regulators",
-      "They can be fabricated or cherry-picked"
-    ],
-    "correct_answer": "They can be fabricated or cherry-picked",
-    "advice": "Anyone can write a fake review. Don’t base your financial future on anonymous quotes.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_28",
-    "category": "Financial Education",
-    "question": "What is 'influencer pumping'?",
-    "options": [
-      "Using leverage to trade options",
-      "Promoting assets to artificially inflate value",
-      "Buying low-risk government bonds",
-      "Converting crypto into cash"
-    ],
-    "correct_answer": "Promoting assets to artificially inflate value",
-    "advice": "If a little-known asset is hyped online, it could be part of a pump-and-dump scheme.",
-    "source": "IOSCO – RetailMarket Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_29",
-    "category": "Financial Education",
-    "question": "What is the safest way to start investing?",
-    "options": [
-      "Ask a friend on Instagram",
-      "Watch viral TikToks",
-      "Follow a well-known influencer",
-      "Use licensed platforms and consult professionals"
-    ],
-    "correct_answer": "Use licensed platforms and consult professionals",
-    "advice": "Choose services regulated by your national authority and seek licensed advice.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "edu_30",
-    "category": "Financial Education",
-    "question": "What’s the best action if you suspect an influencer is running a scam?",
-    "options": [
-      "Report it to the relevant financial authority",
-      "Block them only",
-      "Comment 'scam' under their posts",
-      "Tell your friends to avoid them"
-    ],
-    "correct_answer": "Report it to the relevant financial authority",
-    "advice": "Help stop the scam from spreading by alerting regulators. They can investigate and take action.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "fininf_4",
     "category": "Fininfluencer",
-    "question": "What is a key legal obligation when a finfluencer is paid to promote a financial product?",
+    "question": "A popular social media star tells their followers to buy a specific unknown crypto token, claiming it will 'go to the moon.' They do not disclose that the token developers paid them. What is this?",
     "options": [
-      "Use humor to appeal to followers",
-      "Avoid disclosing payment details",
-      "Clearly disclose the sponsorship",
-      "Mention a disclaimer in small print"
+      "Bona fide financial journalism.",
+      "An undisclosed conflict of interest and potential market manipulation.",
+      "A standard affiliate marketing strategy.",
+      "Crowdfunding."
     ],
-    "correct_answer": "Clearly disclose the sponsorship",
-    "advice": "Transparency is critical. Failing to disclose compensation may mislead consumers and breach financial promotion laws.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "An undisclosed conflict of interest and potential market manipulation.",
+    "advice": "Regulators globally (SEC, ESMA, Consob) require clear disclosure of sponsorships. Promoting an asset without disclosing financial ties is illegal and misleads retail investors.",
+    "source": "ESMA Warning on Investment Recommendations / Consob"
   },
   {
-    "id": "fininf_5",
     "category": "Fininfluencer",
-    "question": "Which of the following is a red flag in finfluencer content?",
+    "question": "What is a 'Pump and Dump' scheme in the context of fininfluencers?",
     "options": [
-      "Mentioning risks and returns",
-      "Promising guaranteed profits",
-      "Linking to financial regulator websites",
-      "Using disclaimers like 'this is not advice'"
+      "A legitimate strategy to increase market liquidity.",
+      "An influencer hypes an asset to artificially inflate the price, then sells their own holdings before the price inevitably crashes.",
+      "A gym workout routine for day traders.",
+      "Buying shares slowly over a long period of time to avoid market disruption."
     ],
-    "correct_answer": "Promising guaranteed profits",
-    "advice": "Guaranteeing profits is misleading and can signal fraud or high-risk schemes. Real investing always involves risk.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "An influencer hypes an asset to artificially inflate the price, then sells their own holdings before the price inevitably crashes.",
+    "advice": "Pump and dump schemes are illegal market manipulation under the Market Abuse Regulation (MAR). The influencer profits at the direct expense of their followers.",
+    "source": "SEC Investor Advisory Committee Report 2024"
   },
   {
-    "id": "fininf_6",
     "category": "Fininfluencer",
-    "question": "What should a responsible finfluencer do when recommending a financial product?",
+    "question": "Under EU Market Abuse Regulation (MAR), can a YouTube video or TikTok be considered an 'Investment Recommendation'?",
     "options": [
-      "Conduct proper research first",
-      "Copy content from other influencers",
-      "Highlight only the benefits",
-      "Post quickly before the market changes"
+      "No, MAR only applies to written reports by licensed banks.",
+      "Yes, if the video explicitly or implicitly advises on a strategy regarding a financial instrument, regardless of the platform.",
+      "Only if the influencer has more than 1 million followers.",
+      "No, social media is legally classified as entertainment."
     ],
-    "correct_answer": "Conduct proper research first",
-    "advice": "Due diligence is essential. Influencers should understand what they’re promoting to avoid misleading their audience.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Yes, if the video explicitly or implicitly advises on a strategy regarding a financial instrument, regardless of the platform.",
+    "advice": "ESMA clarifies that the definition of an investment recommendation is broad. If you advise buying or selling an asset publicly on social media, you are subject to MAR rules.",
+    "source": "ESMA Warning for people posting Investment Recommendations on social media"
   },
   {
-    "id": "fininf_7",
     "category": "Fininfluencer",
-    "question": "Why is it important for finfluencers to use clear and simple language?",
+    "question": "Why are younger retail investors (Gen-Z) particularly vulnerable to fininfluencer advice?",
     "options": [
-      "To avoid legal scrutiny",
-      "To sound professional",
-      "To ensure followers understand risks",
-      "To promote high-end products"
+      "They have too much disposable income.",
+      "They rely primarily on social media for information and often trust the 'Halo Effect' of a charismatic personality over verifiable credentials.",
+      "They do not understand how to use trading apps.",
+      "They prefer reading long regulatory documents over watching videos."
     ],
-    "correct_answer": "To ensure followers understand risks",
-    "advice": "Using plain language helps consumers make informed decisions and reduces the risk of misinterpretation.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "They rely primarily on social media for information and often trust the 'Halo Effect' of a charismatic personality over verifiable credentials.",
+    "advice": "Studies show younger investors often conflate an influencer's lifestyle success with financial expertise, ignoring the lack of regulated qualifications.",
+    "source": "CFA Institute Research: The Finfluencer Appeal"
   },
   {
-    "id": "fininf_8",
     "category": "Fininfluencer",
-    "question": "What is the risk of using emojis or slang to describe investment risks?",
+    "question": "What is the primary danger of trading platforms using 'gamification' (confetti, leaderboards) in conjunction with fininfluencer marketing?",
     "options": [
-      "It makes content more relatable",
-      "It increases reach",
-      "It can obscure critical warnings",
-      "It is legally required"
+      "It drains the battery of smartphones quickly.",
+      "It encourages excessive, risky trading behavior by treating financial markets like a video game.",
+      "It requires users to buy gaming consoles.",
+      "It automatically reports users to the tax authorities."
     ],
-    "correct_answer": "It can obscure critical warnings",
-    "advice": "Over-simplifying or disguising risk language with emojis may reduce clarity and mislead followers.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "It encourages excessive, risky trading behavior by treating financial markets like a video game.",
+    "advice": "IOSCO warns that gamification techniques, especially when amplified by influencers, can trigger behavioral biases that lead retail investors to take on risks they do not understand.",
+    "source": "IOSCO Report on Retail Investor Trends"
   },
   {
-    "id": "fininf_9",
     "category": "Fininfluencer",
-    "question": "When is it acceptable for a finfluencer to share personal investment results?",
+    "question": "If you are following a fininfluencer, what is the best way to verify their legitimacy?",
     "options": [
-      "If they hide losses",
-      "Only when showing profit",
-      "If they include balanced context and risks",
-      "Never under any condition"
+      "Check if they have a blue verified checkmark on Instagram.",
+      "Look at pictures of the cars they drive.",
+      "Search for their name on the official register of authorized financial intermediaries of your national regulator (e.g., CSSF, AMF, FCA).",
+      "Read the comments section under their videos."
     ],
-    "correct_answer": "If they include balanced context and risks",
-    "advice": "Sharing personal results without discussing risks may create unrealistic expectations and is ethically problematic.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Search for their name on the official register of authorized financial intermediaries of your national regulator (e.g., CSSF, AMF, FCA).",
+    "advice": "Only individuals registered with a national competent authority are legally permitted to provide personalized financial advice. A blue checkmark is not a financial credential.",
+    "source": "National Competent Authorities (CSSF / AMF) Guidelines"
   },
   {
-    "id": "fininf_10",
     "category": "Fininfluencer",
-    "question": "What is one common psychological tactic used by finfluencers?",
+    "question": "What is 'Affinity Fraud' in the context of social media communities?",
     "options": [
-      "Providing academic citations",
-      "Creating FOMO (fear of missing out)",
-      "Explaining long-term risk profiles",
-      "Encouraging professional advice"
+      "A scam targeting people who like the same sports team.",
+      "Fraudsters exploiting the trust within a specific demographic or online community (e.g., religious groups, ethnic communities, or specific Discord channels) to sell fake investments.",
+      "A legal marketing strategy to target specific age groups.",
+      "Fraud committed exclusively by family members."
     ],
-    "correct_answer": "Creating FOMO (fear of missing out)",
-    "advice": "FOMO pressures followers to act emotionally rather than rationally. Always pause and research before investing.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Fraudsters exploiting the trust within a specific demographic or online community (e.g., religious groups, ethnic communities, or specific Discord channels) to sell fake investments.",
+    "advice": "Affinity fraud relies on the victim's trust in the group's leader or influencer, bypassing normal skepticism and due diligence.",
+    "source": "SEC Investor Alerts"
   },
   {
-    "id": "fininf_11",
     "category": "Fininfluencer",
-    "question": "Which of these is considered misleading advertising by a finfluencer?",
+    "question": "You see a video of Elon Musk on TikTok promoting a new trading platform that guarantees daily returns. What is the most likely reality?",
     "options": [
-      "Disclosing risks in the caption",
-      "Highlighting both pros and cons",
-      "Using the phrase 'guaranteed income'",
-      "Linking to regulator sites"
+      "Elon Musk has diversified his business into retail trading.",
+      "It is an AI-generated Deepfake designed to steal funds or personal data.",
+      "It is a legitimate sponsored post.",
+      "The platform is endorsed by the US government."
     ],
-    "correct_answer": "Using the phrase 'guaranteed income'",
-    "advice": "Terms like 'guaranteed income' are misleading in financial promotion unless tied to regulated, guaranteed products.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "It is an AI-generated Deepfake designed to steal funds or personal data.",
+    "advice": "Deepfakes of celebrities and politicians are increasingly used by cyber-criminals to lend false credibility to fraudulent investment schemes.",
+    "source": "FATF Cyber-enabled Fraud Trends 2026"
   },
   {
-    "id": "fininf_12",
     "category": "Fininfluencer",
-    "question": "How should a finfluencer present affiliate links for financial services?",
+    "question": "A fininfluencer claims they have an 'exclusive algorithm' that beats the market 99% of the time, available for a $500 monthly subscription. This is likely:",
     "options": [
-      "Only in the bio",
-      "Hidden under short links",
-      "Clearly marked and disclosed",
-      "No need to mention them"
+      "A rare but legitimate opportunity.",
+      "A signal provider scam, where retail investors pay for worthless or generic trading signals.",
+      "A charitable donation.",
+      "A regulated hedge fund."
     ],
-    "correct_answer": "Clearly marked and disclosed",
-    "advice": "Affiliate marketing links must be disclosed clearly to avoid misleading consumers and breaching ad laws.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "A signal provider scam, where retail investors pay for worthless or generic trading signals.",
+    "advice": "If an algorithm truly beat the market 99% of the time, the creator would use it to become a billionaire, not sell it for $500 on the internet.",
+    "source": "IOSCO Investor Warnings"
   },
   {
-    "id": "fininf_13",
     "category": "Fininfluencer",
-    "question": "Why is it dangerous to follow financial advice from unverified influencers?",
+    "question": "According to regulators, what must a legitimate fininfluencer do to ensure objective presentation of an investment recommendation?",
     "options": [
-      "They might delete their posts later",
-      "They rarely post on weekends",
-      "They may lack qualifications and oversight",
-      "They promote only crypto products"
+      "Use high-quality video editing software.",
+      "Clearly distinguish facts from their own interpretations, estimates, or opinions, and indicate if sources are reliable.",
+      "Publish videos only during trading hours.",
+      "Ensure the video is shorter than 60 seconds."
     ],
-    "correct_answer": "They may lack qualifications and oversight",
-    "advice": "Unverified influencers may offer advice that’s biased, incorrect, or even illegal. Always cross-check their credentials.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Clearly distinguish facts from their own interpretations, estimates, or opinions, and indicate if sources are reliable.",
+    "advice": "The Market Abuse Regulation (MAR) mandates that anyone producing investment recommendations must present them objectively and transparently disclose any conflicts of interest.",
+    "source": "EU Market Abuse Regulation (MAR) Article 20"
   },
   {
-    "id": "fininf_14",
-    "category": "Fininfluencer",
-    "question": "Which of the following practices may lead to regulatory sanctions for finfluencers?",
+    "category": "Money Muling",
+    "question": "What is the primary role of a 'Money Mule' in a criminal network?",
     "options": [
-      "Stating personal opinions",
-      "Making disclaimers visible",
-      "Recommending unlicensed brokers",
-      "Using emojis in captions"
+      "To hack into bank databases.",
+      "To manufacture counterfeit currency.",
+      "To receive illicit funds into their bank account and transfer them elsewhere, helping to launder the money and obscure its origin.",
+      "To provide physical security for organized crime bosses."
     ],
-    "correct_answer": "Recommending unlicensed brokers",
-    "advice": "Promoting or directing followers to unlicensed entities is a regulatory breach in many jurisdictions.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "To receive illicit funds into their bank account and transfer them elsewhere, helping to launder the money and obscure its origin.",
+    "advice": "Money mules are the critical link that allows cybercriminals to move stolen funds out of the banking system while hiding their own identities.",
+    "source": "FATF / Europol EMMA (European Money Mule Action)"
   },
   {
-    "id": "fininf_15",
-    "category": "Fininfluencer",
-    "question": "What is the most ethical way to talk about investment products online?",
+    "category": "Money Muling",
+    "question": "You see a job ad online for a 'Local Payment Processing Agent.' The only requirement is to use your personal bank account to receive company funds and forward them via crypto. What is this?",
     "options": [
-      "Promote only profitable outcomes",
-      "Disclose all risks and conflicts of interest",
-      "Avoid using legal disclaimers",
-      "Encourage followers to act quickly"
+      "A legitimate entry-level finance job.",
+      "A classic money mule recruitment scam.",
+      "A standard freelance contract.",
+      "A banking internship."
     ],
-    "correct_answer": "Disclose all risks and conflicts of interest",
-    "advice": "A balanced view of potential risks and interests helps protect followers and complies with advertising laws.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "A classic money mule recruitment scam.",
+    "advice": "Legitimate companies never require employees to use their personal bank accounts to process corporate transactions. This is a tactic to trick unwitting victims into laundering money.",
+    "source": "FATF Typologies on Cyber-enabled Fraud"
   },
   {
-    "id": "fininf_16",
-    "category": "Fininfluencer",
-    "question": "When using testimonials in financial promotions, what is required?",
+    "category": "Money Muling",
+    "question": "What happens if you act as a money mule without realizing the money was tied to a crime (unwitting mule)?",
     "options": [
-      "Use actors for credibility",
-      "Always include paid endorsements without disclosure",
-      "Disclose any material connections",
-      "No rules apply to testimonials"
+      "You face no consequences because you didn't know.",
+      "The bank will simply reverse the transaction.",
+      "You can still face severe legal consequences, including criminal charges, account closure, and inability to obtain credit or loans in the future.",
+      "You are allowed to keep 10% of the funds as compensation."
     ],
-    "correct_answer": "Disclose any material connections",
-    "advice": "Transparency about compensation or relationships is critical when using testimonials to promote financial products.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "You can still face severe legal consequences, including criminal charges, account closure, and inability to obtain credit or loans in the future.",
+    "advice": "Ignorance is not a reliable defense. Banks will close your accounts and flag you in anti-fraud databases, severely impacting your financial future. In many jurisdictions, negligence is enough for prosecution.",
+    "source": "Europol / Interpol Anti-Money Laundering Guidelines"
   },
   {
-    "id": "fininf_17",
-    "category": "Fininfluencer",
-    "question": "What should finfluencers include when promoting high-risk financial products?",
+    "category": "Money Muling",
+    "question": "Which demographic is most heavily targeted by criminal networks for money mule recruitment?",
     "options": [
-      "Only the upside potential",
-      "A clear risk warning",
-      "Guarantees of return",
-      "Complex jargon to impress"
+      "Retired police officers.",
+      "Students, young adults, migrants, and the unemployed looking for easy extra income.",
+      "Corporate executives.",
+      "Compliance officers."
     ],
-    "correct_answer": "A clear risk warning",
-    "advice": "Warnings help consumers understand the likelihood of loss and promote informed decision-making.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Students, young adults, migrants, and the unemployed looking for easy extra income.",
+    "advice": "Criminals exploit economic vulnerability and financial illiteracy. Students and migrants are frequent targets due to their need for quick income and lack of familiarity with local banking regulations.",
+    "source": "FATF Report on Cyber-enabled Fraud 2026"
   },
   {
-    "id": "fininf_18",
-    "category": "Fininfluencer",
-    "question": "Which user group is considered especially vulnerable to misleading finfluencer content?",
+    "category": "Money Muling",
+    "question": "A person you met on a dating app a month ago suddenly asks you to receive a transfer for a 'business emergency' because their account is locked, and asks you to forward it to a third party. What is happening?",
     "options": [
-      "Institutional traders",
-      "Experienced investors over 65",
-      "Young and first-time retail investors",
-      "Certified financial planners"
+      "Your partner is testing your trust.",
+      "It is a Romance Scam intersecting with Money Muling.",
+      "It is a legitimate temporary banking error.",
+      "It is an opportunity to start a joint business."
     ],
-    "correct_answer": "Young and first-time retail investors",
-    "advice": "Younger audiences are often more impressionable and less financially literate, making them more vulnerable.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "It is a Romance Scam intersecting with Money Muling.",
+    "advice": "Fraudsters build emotional relationships over weeks or months specifically to exploit the victim's trust and use their bank accounts to launder funds stolen from other victims.",
+    "source": "FATF Financial Flows from Cyber-enabled Fraud"
   },
   {
-    "id": "fininf_19",
-    "category": "Fininfluencer",
-    "question": "What is the regulatory concern with 'copy trading' apps promoted by influencers?",
+    "category": "Money Muling",
+    "question": "How are cryptocurrencies changing the landscape of money muling?",
     "options": [
-      "They are too slow",
-      "They are hard to use",
-      "They lack regulatory clarity",
-      "They are too expensive"
+      "They make muling entirely legal.",
+      "They allow mules to keep all the money.",
+      "Criminals increasingly ask mules to convert stolen fiat currency into crypto via Bitcoin ATMs or exchanges to instantly move funds across borders outside the traditional banking system.",
+      "They require mules to be expert programmers."
     ],
-    "correct_answer": "They lack regulatory clarity",
-    "advice": "Copy trading may blur the line between content and financial advice, raising supervisory concerns.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Criminals increasingly ask mules to convert stolen fiat currency into crypto via Bitcoin ATMs or exchanges to instantly move funds across borders outside the traditional banking system.",
+    "advice": "The speed and cross-border nature of Virtual Assets (VAs) make them highly attractive to organized crime. Mules are often instructed to buy crypto and send it to an unhosted wallet controlled by the criminals.",
+    "source": "FATF Guidance for a Risk-Based Approach to Virtual Assets"
   },
   {
-    "id": "fininf_20",
-    "category": "Fininfluencer",
-    "question": "What is a responsible behavior when reposting promotional content?",
+    "category": "Money Muling",
+    "question": "What should you do immediately if you suspect you have been tricked into acting as a money mule?",
     "options": [
-      "Remove disclaimers for clarity",
-      "Maintain the original disclosures",
-      "Change the message to avoid detection",
-      "Add emojis to attract engagement"
+      "Send the rest of the money and then block the person.",
+      "Keep the money and say nothing.",
+      "Stop all communication, do not transfer any more funds, and immediately contact your bank and the police.",
+      "Demand a higher commission from the recruiter."
     ],
-    "correct_answer": "Maintain the original disclosures",
-    "advice": "Even reposted content must preserve legal disclosures and sponsorship information to remain compliant.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Stop all communication, do not transfer any more funds, and immediately contact your bank and the police.",
+    "advice": "Prompt reporting can mitigate the damage. Continuing the activity after suspecting it is illegal shifts you from an 'unwitting' mule to a 'complicit' one in the eyes of the law.",
+    "source": "Europol Public Awareness Campaigns"
   },
   {
-    "id": "fininf_21",
-    "category": "Fininfluencer",
-    "question": "What is a typical sign of unethical finfluencer behavior?",
+    "category": "Money Muling",
+    "question": "In Anti-Money Laundering (AML) terminology, what does 'Smurfing' refer to?",
     "options": [
-      "Linking to educational sources",
-      "Providing clear disclaimers",
-      "Promoting pump-and-dump schemes",
-      "Encouraging financial literacy"
+      "Painting money blue to track it.",
+      "Breaking down large amounts of illicit cash into numerous smaller transactions to avoid triggering bank reporting thresholds.",
+      "Using cartoon characters to recruit children.",
+      "Trading blue-chip stocks exclusively."
     ],
-    "correct_answer": "Promoting pump-and-dump schemes",
-    "advice": "Pump-and-dump is illegal market manipulation and a serious regulatory violation.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Breaking down large amounts of illicit cash into numerous smaller transactions to avoid triggering bank reporting thresholds.",
+    "advice": "Money mules are often used as 'smurfs' to deposit small amounts of cash across different bank branches to evade the automatic generation of Suspicious Transaction Reports (STRs).",
+    "source": "FATF Typologies on Money Laundering"
   },
   {
-    "id": "fininf_22",
-    "category": "Fininfluencer",
-    "question": "Why should a finfluencer avoid overly technical or complex financial language?",
+    "category": "Money Muling",
+    "question": "Why do international crime syndicates rely so heavily on money mules?",
     "options": [
-      "To appear less qualified",
-      "To comply with accessibility guidelines",
-      "To reduce engagement",
-      "To protect high-net-worth individuals"
+      "Because mules are excellent financial advisors.",
+      "Because banks charge high corporate fees.",
+      "Because transferring stolen funds directly from a victim's account to a criminal's offshore account would be immediately flagged and blocked by AML transaction monitoring systems.",
+      "Because criminals want to share their wealth with the public."
     ],
-    "correct_answer": "To comply with accessibility guidelines",
-    "advice": "Accessible language ensures that all retail users, regardless of financial knowledge, understand key risks and messages.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "Because transferring stolen funds directly from a victim's account to a criminal's offshore account would be immediately flagged and blocked by AML transaction monitoring systems.",
+    "advice": "Mules provide the necessary 'layering' in the money laundering process. Using domestic accounts belonging to individuals with clean banking histories bypasses initial bank security filters.",
+    "source": "FATF National Risk Assessment Toolkit"
   },
   {
-    "id": "fininf_23",
-    "category": "Fininfluencer",
-    "question": "What’s the main danger of FOMO-based financial content?",
+    "category": "Money Muling",
+    "question": "What is an 'Account Herder' in a money mule network?",
     "options": [
-      "It increases saving habits",
-      "It encourages thoughtful research",
-      "It drives irrational investment decisions",
-      "It improves market regulation"
+      "A bank employee who closes accounts.",
+      "A farmer who invests in agricultural stocks.",
+      "A mid-level criminal who recruits, controls, and coordinates a large network of lower-level money mules on behalf of a larger syndicate.",
+      "Software used to generate fake bank statements."
     ],
-    "correct_answer": "It drives irrational investment decisions",
-    "advice": "FOMO tactics rely on emotion, which undermines rational decision-making and may lead to financial loss.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "fininf_24",
-    "category": "Fininfluencer",
-    "question": "What should a fininfluencer do if unsure whether a product is regulated?",
-    "options": [
-      "Recommend it anyway with a warning",
-      "Check with the local financial authority",
-      "Assume it's fine if others promote it",
-      "Use vague language to avoid liability"
-    ],
-    "correct_answer": "Check with the local financial authority",
-    "advice": "Before promoting a financial product, it’s essential to confirm its regulatory status with the appropriate authority.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "fininf_25",
-    "category": "Fininfluencer",
-    "question": "Why is deleting sponsored content shortly after posting problematic?",
-    "options": [
-      "It reduces likes",
-      "It breaches the platform's algorithm",
-      "It may remove important disclosures",
-      "It lowers influencer credibility"
-    ],
-    "correct_answer": "It may remove important disclosures",
-    "advice": "Deleting content that included mandatory legal disclosures can mislead consumers who viewed only the initial post.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "fininf_26",
-    "category": "Fininfluencer",
-    "question": "What must be included in all financial promotions by finfluencers?",
-    "options": [
-      "A celebrity endorsement",
-      "A link to a crypto exchange",
-      "A clear and prominent risk warning",
-      "A live stream Q&A"
-    ],
-    "correct_answer": "A clear and prominent risk warning",
-    "advice": "Risk warnings are essential to ensure followers are aware of potential losses when considering financial products.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "fininf_27",
-    "category": "Fininfluencer",
-    "question": "Why is it misleading to compare financial products using only past performance?",
-    "options": [
-      "It’s too technical",
-      "It violates platform terms",
-      "Past results do not predict future outcomes",
-      "It makes the influencer less popular"
-    ],
-    "correct_answer": "Past results do not predict future outcomes",
-    "advice": "Regulators require that influencers avoid implying past performance guarantees future returns.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "fininf_28",
-    "category": "Fininfluencer",
-    "question": "How should hashtags like #ad or #sponsored be used?",
-    "options": [
-      "Only in Stories",
-      "Only if space allows",
-      "Always, and clearly near the top of the post",
-      "Only for fashion products"
-    ],
-    "correct_answer": "Always, and clearly near the top of the post",
-    "advice": "Disclosures should be easy to notice and understand, not hidden at the end or in small print.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "fininf_29",
-    "category": "Fininfluencer",
-    "question": "What is a good rule of thumb for finfluencers when sharing content?",
-    "options": [
-      "If it’s viral, it’s compliant",
-      "If in doubt, leave it out",
-      "Use more colors and charts",
-      "Keep posts short and exciting"
-    ],
-    "correct_answer": "If in doubt, leave it out",
-    "advice": "If there is any uncertainty about compliance or risk of misleading consumers, it’s best not to post.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
-  },
-  {
-    "id": "fininf_30",
-    "category": "Fininfluencer",
-    "question": "What is the purpose of regulatory action against non-compliant finfluencers?",
-    "options": [
-      "To punish the influencer personally",
-      "To protect the financial system from instability",
-      "To drive traffic to regulator websites",
-      "To boost social media ratings"
-    ],
-    "correct_answer": "To protect the financial system from instability",
-    "advice": "Regulators aim to protect retail investors and the integrity of markets by curbing misleading or unlawful promotions.",
-    "source": "IOSCO – Retail Market Conduct and Financial Influencers Report (2025)"
+    "correct_answer": "A mid-level criminal who recruits, controls, and coordinates a large network of lower-level money mules on behalf of a larger syndicate.",
+    "advice": "Organized crime groups use a hierarchical structure. Account herders act as buffers, ensuring the masterminds remain insulated from the actual mules who take the highest risk of arrest.",
+    "source": "Europol Cybercrime Threat Assessments"
   }
 ]
