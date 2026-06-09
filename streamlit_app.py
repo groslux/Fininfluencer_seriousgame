@@ -87,9 +87,10 @@ if st.session_state.step == "start":
             ["Financial Education", "Fininfluencer Risks", "Money Muling"]
         )
         
+    # UI Updated: Simulation strictly limited to a max of 10 questions to match the database limit.
     st.session_state.total_questions = st.select_slider(
         "Simulation Length (Questions):", 
-        options=[5, 10, 15, 20], 
+        options=[3, 5, 8, 10], 
         value=10
     )
 
@@ -179,7 +180,10 @@ elif st.session_state.step == "results":
     total_time = int(time.time() - st.session_state.start_time)
     win_rate = int((st.session_state.score / st.session_state.total_questions) * 100)
     
-    st.balloons() if win_rate >= 75 else st.snow()
+    if win_rate >= 75:
+        st.balloons()
+    else:
+        st.snow()
     
     st.markdown(f"## 🏁 Simulation Complete, Agent {st.session_state.player_name}")
     
